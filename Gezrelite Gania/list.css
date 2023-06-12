@@ -1,0 +1,192 @@
+.nav1{
+	list-style: none;
+	background:linear-gradient(-90deg,black,gray);
+	margin:-50px -16px 0px -16px;
+	box-shadow: 2px 2px 5px black;
+	overflow: hidden;
+}	
+a{
+	text-decoration: none;
+}
+li{
+	float: left;
+}
+li a{
+	font-family: Arial;
+	padding: 14px 16px;
+	font-size: 16px;
+	color: white;
+	display: block;
+	text-shadow: 2px 2px 5px red;
+}
+li a:hover{
+	background-color: #eb3349;
+}
+.nav2{
+	margin-top: -3px;
+}
+ul{
+	list-style: none;
+	background:linear-gradient(10deg,black,gray);
+	margin:5px -16px 0px -16px;
+	box-shadow: 2px 2px 5px black;
+	overflow: hidden;
+}
+.li{
+	margin-left: 100px;
+}
+.li a{
+	font-family: Arial;
+	padding: 14px 16px;
+	font-size: 16px;
+	color: white;
+	display: block;
+	text-shadow: 2px 2px 5px red;
+}
+.li a:hover{
+	background-color: #eb3349;
+}
+div.img{
+	margin-left: 50px;
+	width: 200px;
+	height: 200px;
+	float: left;
+	box-shadow: 2px 2px 5px black;
+	border:2px solid #ccc;
+}
+div.img img{
+	width: 100%;
+	box-shadow: 2px 2px 5px black;
+	height: 150px;
+}
+div.desc{
+	font-family: Lucida Handwriting;
+	font-size:14px;
+	text-align: center;
+	border: 2px  #eb3349;
+	height: 28px;
+	padding-top: 15px;
+}
+.first{
+	background:linear-gradient(10deg,#a3eb33 ,#0D324D);
+	height: 300px;
+	width: 1100px;
+	margin:0px -16px 0px -16px;
+	box-shadow: 2px 2px 5px black;
+}
+.tnalakk{
+	margin-left: 8px;
+}
+.the{
+	font-family: Forte;
+	color:white;
+	border:2px  #eb3349;
+	width: 300px;
+	margin-left: 600px;
+	text-align: center;
+}
+.intro1{
+	margin-left: 500px;
+	font-family: arial;
+	font-size:20px;
+	color: white;
+	padding: 15px;
+	text-align: justify;
+	width: 500px;
+}
+.second{
+	background:linear-gradient(10deg,#a3eb33 ,#0D324D);
+	height: 300px;
+	width: 1050px;
+	margin-left: 1000px;
+	margin:0px 50px 0px 300px;
+	box-shadow: 2px 2px 5px black;
+}
+.tnalakk1{
+	margin-right: px;
+}
+.the1{
+	font-family: Forte;
+	color:white;
+	border:2px  #eb3349;
+	width: 300px;
+	margin-left: 200px;
+	text-align: center;
+}
+.intro2{
+	font-family: arial;
+	font-size:20px;
+	color: white;
+	margin-left: 100px;
+	padding: 15px;
+	width: 500px;
+	text-align: justify;
+}
+.third{
+	background:linear-gradient(10deg,#a3eb33 ,#0D324D);
+	height: 300px;
+	width: 1100px;
+	margin:0px -16px 0px -16px;
+	box-shadow: 2px 2px 5px black;
+}
+.tnalakk3{
+	margin-left: 8px;
+}
+.the3{
+	font-family: Forte;
+	color:white;
+	border:2px #eb3349;
+	width: 300px;
+	margin-left: 600px;
+	text-align: center;
+}
+.intro3{
+	margin-left: 500px;
+	font-family: arial;
+	font-size:20px;
+	color: white;
+	padding: 15px;
+	text-align: justify;
+	width: 500px;
+}
+.send1{
+	font-family: Segoe Ui LIGHT;
+	margin-left: 20px;
+	margin-top: -50px;
+}
+.letzz{
+	font-family: SEGOE UI LIGHT;
+	margin-left: 20px;
+	margin-top: -20px;
+}
+hr{
+
+	
+}
+.footer{
+	background: linear-gradient(-90deg,#a3eb33 ,#0D324D);
+	margin:0px -16px 0px -16px;
+	box-shadow: 2px 2px 5px black;
+	height: 200px;
+}
+.south5{
+	font-family: Verdana;
+	color: white;
+	text-shadow: 2px 2px 5px black;
+}
+.south6{
+	font-family: SEGOE UI LIGHT;
+	color: white;
+	text-shadow: 2px 2px 5px black;
+}
+body{
+	background-color: rgb(240,240,240);
+}
+.know{
+	border: 2px line #eb3349;
+	width: 450px;
+	text-align: center;
+	font-family: segoe ui light;
+	font-weight: 900;
+	margin-left: 450px;
+}

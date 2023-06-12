@@ -1,0 +1,112 @@
+.ul1{
+	list-style: none;
+	background:linear-gradient(-90deg,black,gray);
+	margin:-15px -16px 0px -16px;
+	box-shadow: 2px 2px 5px black;
+	overflow: hidden;
+}	
+a{
+	text-decoration: none;
+}
+li{
+	float: left;
+}
+li a{
+	font-family: Arial;
+	padding: 14px 16px;
+	font-size: 16px;
+	color: white;
+	display: block;
+	text-shadow: 2px 2px 5px red;
+}
+li a:hover{
+	background-color: #eb3349;
+}
+.form{
+	height: 600px;
+	width: 1100px;
+	margin-left: 50px;
+	box-shadow: 0px 7px 12px -7px black;
+}
+li{
+	list-style: none;
+}
+.name{
+	font-family: Segoe UI LIGHT;
+}
+input[type=text]{
+	width: 350px;
+	height: 30px;
+}
+textarea{
+	width: 350px;
+	height: 150px;
+}
+input[type=button]{
+	border-radius: 5px;
+	background-color: #eb3349;
+	height: 40px;
+	width: 80px;
+	color: white;
+	cursor: pointer;
+}
+.form,.ul-contact,.li-contact{
+	float: left;
+	list-style: none;
+}
+.b1{
+	background-color:#7f5183;
+	margin-left: 200px;
+	width: 500px;
+	height: 600px;
+	margin-right: -5px;
+	margin-top: -145px;
+}
+.head{
+	margin-top:25px;
+	margin-left: 10px;
+	font-family: Verdana;
+	color: white;
+	font-weight: 20;
+	box-shadow: 0px -7px -16px -7px;
+}
+	width:300px;
+	height: 30px;
+	border-radius:  50px 0px 0px 50px;
+	border: 1px solid;
+	margin-left: 900px;
+	margin-top: 50px;
+}
+	border-radius: 0px 50px 50px 0px;
+	height: 35px;
+	margin-top: -10px;
+	background-color: #eb3349;
+	margin-left: -5px;
+	color: white;
+}
+.send1{
+	font-family: Segoe Ui LIGHT;
+	margin-left: 20px;
+	margin-top: -50px;
+}
+.letzz{
+	font-family: SEGOE UI LIGHT;
+	margin-left: 20px;
+	margin-top: -20px;
+}
+.footer{
+	background: linear-gradient(-90deg,#7F5183 ,#0D324D);
+	margin:0px -16px 0px -16px;
+	box-shadow: 2px 2px 5px black;
+	height: 200px;
+}
+.south5{
+	font-family: Verdana;
+	color: white;
+	text-shadow: 2px 2px 5px black;
+}
+.south6{
+	font-family: SEGOE UI LIGHT;
+	color: white;
+	text-shadow: 2px 2px 5px black;
+}

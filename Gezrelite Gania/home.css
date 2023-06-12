@@ -1,0 +1,160 @@
+ul{
+	list-style: none;
+	background:linear-gradient(-90deg,black,gray);
+	margin:-15px -16px 0px -16px;
+	box-shadow: 2px 2px 5px black;
+	overflow: hidden;
+}	
+a{
+	text-decoration: none;
+}
+li{
+	float: left;
+}
+li a{
+	font-family: Arial;
+	padding: 14px 16px;
+	font-size: 16px;
+	color: white;
+	display: block;
+	text-shadow: 2px 2px 5px red;
+}
+li a:hover{
+	background-color: #eb3349;
+}
+.banner{
+	background-size: cover;
+	background-image: url("u.jpg");
+	margin:2px -16px 0px -16px;
+	padding: 20vh 0;
+	height: 150px;
+	box-shadow: 2px 2px 5px black;
+	text-align: center;
+}
+.banner::after{
+	z-index: 0;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	display: block;
+	content: "";
+}
+.banner >*{
+	font-family: Verdana;
+	font-size: 38px;
+	color: white;
+	text-shadow: 2px 2px 5px black;
+}
+.land{
+	margin-top: -15px;
+	font-family: brush script std;
+	font-size: 28px;
+}
+.lets{
+	background-color: #eb3349;
+	font-family: Lucida Handwriting;
+	font-size: 16px;
+	margin-left: 25px;
+	padding: 10px 15px 10px 15px;
+	box-shadow: 2px 2px 7px black;
+}
+.our1{
+	font-family: Segoe UI LIGHT;
+	font-weight: 900;
+	font-size: 42px;
+}
+.we{
+	
+	font-size: 16px;
+	margin-top: -15px;
+}
+table{
+	padding: 20px 20px 20px 20px;
+}
+th{
+	font-family: Segoe Ui light;
+	font-size: 24px;
+	text-shadow: 2px 2px 2px black;
+}
+td{
+	padding: 30px;
+	font-family: Arial;
+}
+.img1{
+	box-shadow: 2px 2px 5px black;
+}
+.first{
+	background:linear-gradient(
+-90deg,#7F5183 ,#0D324D);
+	height: 300px;
+	margin: 0px -16px 0px -15px;
+}
+.topic1{
+	font-family: Brush script STD;
+	color: white;
+	margin-left: 25px;
+}
+.future{
+	font-family: Segoe Ui LIGHT;
+	font-size: 15px;
+	margin-left: 25px;
+	margin-top: -20px;
+	color: white;
+}
+.intro11{
+	padding: 30px;
+	width: 700px;
+	font-family: Arial;
+	color: white;
+	font-size: 20px;
+	margin-top: -15px;
+	text-align: justify;
+	text-indent: 20px;
+}
+input[type="text"]{
+	width:300px;
+	height: 30px;
+	border-radius:  50px 0px 0px 50px;
+	border: 1px solid;
+	margin-left: 900px;
+	margin-top: 50px;
+}
+input[type="button"]{
+	border-radius: 0px 50px 50px 0px;
+	height: 35px;
+	margin-top: -10px;
+	background-color: #eb3349;
+	margin-left: -5px;
+	color: white;
+}
+.send1{
+	font-family: Segoe Ui LIGHT;
+	margin-left: 20px;
+	margin-top: -50px;
+}
+.letzz{
+	font-family: SEGOE UI LIGHT;
+	margin-left: 20px;
+	margin-top: -20px;
+}
+.footer{
+	background:linear-gradient(
+-90deg,#7F5183 ,#0D324D);
+	margin:0px -16px 0px -16px;
+	box-shadow: 2px 2px 5px black;
+	height: 200px;
+}
+.south5{
+	font-family: Verdana;
+	color: white;
+	text-shadow: 2px 2px 5px black;
+}
+.south6{
+	font-family: SEGOE UI LIGHT;
+	color: white;
+	text-shadow: 2px 2px 5px black;
+}
+html{
+	scroll-behavior: smooth;
+}

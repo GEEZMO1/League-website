@@ -1,0 +1,98 @@
+ul{
+	list-style: none;
+	background:linear-gradient(-90deg,black,gray);
+	margin:-15px -16px 0px -16px;
+	box-shadow: 2px 2px 5px black;
+	overflow: hidden;
+}	
+a{
+	text-decoration: none;
+}
+li{
+	float: left;
+}
+li a{
+	font-family: Arial;
+	padding: 14px 16px;
+	font-size: 16px;
+	color: white;
+	display: block;
+	text-shadow: 2px 2px 5px red;
+}
+li a:hover{
+	background-color: #eb3349;
+}
+.welcome1{
+	font-family: Segoe UI LIGHT;
+	font-size: 32px;
+}
+.land{
+	font-family: Segoe UI LIGHT;
+	font-size: 18PX;
+	margin-top: -15px;
+}
+body{
+	background-color: rgb(240,240,240);
+	padding: 15px;
+}
+.img1{
+	box-shadow: 2px 2px 5px black;
+}
+.lorem{
+	padding: 0px 16px 0px 16px;
+	text-indent: 40px;
+	font-family: arial;
+	font-size: 18px;
+	width: 800px;
+	text-align: justify;
+}
+.history1{
+	font-family: Brush Script Std;
+	margin-left: 20px;
+}
+hr{
+	width: 90%;
+	border: 1px dashed black;
+}
+input[type="text"]{
+	width:300px;
+	height: 30px;
+	border-radius:  50px 0px 0px 50px;
+	border: 1px solid;
+	margin-left: 900px;
+	margin-top: 50px;
+}
+input[type="button"]{
+	border-radius: 0px 50px 50px 0px;
+	height: 35px;
+	margin-top: -10px;
+	background-color: #eb3349;
+	margin-left: -5px;
+	color: white;
+}
+.send1{
+	font-family: Segoe Ui LIGHT;
+	margin-left: 20px;
+	margin-top: -50px;
+}
+.letzz{
+	font-family: SEGOE UI LIGHT;
+	margin-left: 20px;
+	margin-top: -20px;
+}
+.footer{
+	background: linear-gradient(-90deg,#7F5183 ,#0D324D);
+	margin:0px -16px 0px -16px;
+	box-shadow: 2px 2px 5px black;
+	height: 200px;
+}
+.south5{
+	font-family: Verdana;
+	color: white;
+	text-shadow: 2px 2px 5px black;
+}
+.south6{
+	font-family: SEGOE UI LIGHT;
+	color: white;
+	text-shadow: 2px 2px 5px black;
+}
